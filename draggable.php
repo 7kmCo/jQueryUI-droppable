@@ -1,5 +1,5 @@
 <?php
-require_once 'database.php';
+require_once 'functions.php';
 
 $items = get_items();
 

@@ -1,5 +1,5 @@
 <?php
-include 'database.php';
+include 'functions.php';
 $target = $_POST['targetID'];
 $items = get_items($target[0]);
 // echo "ID: " . $target[0];

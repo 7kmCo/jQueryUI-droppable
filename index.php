@@ -1,5 +1,5 @@
 <?php
-require_once 'database.php';
+require_once 'functions.php';
 $featured = get_featured('featured');
 $teaser1 = get_featured('teaser1');
 $teaser2 = get_featured('teaser2');

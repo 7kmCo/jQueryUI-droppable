@@ -1,6 +1,6 @@
 <?php
 
-include 'database.php';
+include 'functions.php';
 
 $item = $_GET['id'];
 $place = $_GET['place'];
